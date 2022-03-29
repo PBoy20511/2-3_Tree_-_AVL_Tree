@@ -1,5 +1,3 @@
-// 10824236 ���f��
-// 10720107 ���A�� 
 #include<iostream>
 #include<vector>
 #include<string>
